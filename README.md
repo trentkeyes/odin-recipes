@@ -1,2 +1,2 @@
 # odin-recipes
-practicing html with a recpie website
+practicing html with a recipe website
